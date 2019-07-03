@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleHelloWorld
 {
@@ -10,6 +6,8 @@ namespace ConsoleHelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Git World");
+            Console.WriteLine("Welcome Ravi to Git World");
         }
     }
 }
